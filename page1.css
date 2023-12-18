@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+body{
+    background: #001e4d;
+    font-family: 'poppins';
+}
+.content h3{
+    color: #fff;
+    font-size: 12px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+    letter-spacing: 4;
+}
+.content h1{
+    color: #fff;
+    font-size: 35px;
+    font-weight: 900;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.content p{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 900;
+    position: absolute;
+    left: 120px;
+    top: 260px;
+}
+.content img{
+    position: absolute;
+    left: 550px;
+    bottom: 50px;
+    width: 50%;
+}
+#btn{
+    background: #2e7af5;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 150px;
+    top: 330px;
+    border: none;
+}
+.col1{
+    flex-basis: 0%;
+    height: 200px;
+    width: 20%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    text-align: left;
+    background: #b9b9b9;
+    color: black;
+    font-size: 12px;
+    padding: 25px;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    left: 70px;
+    top: 400px;
+}
+.col2{
+    flex-basis: 0%;
+    height: 200px;
+    width: 20%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    text-align: left;
+    background: #b9b9b9;
+    color: black;
+    font-size: 12px;
+    padding: 25px;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    left: 395px;
+    top: 100px;
+}
+.col3{
+    flex-basis: 0%;
+    height: 200px;
+    width: 20%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+    text-align: left;
+    background: #b9b9b9;
+    color: black;
+    font-size: 12px;
+    padding: 25px;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    left: 712px;
+    bottom: 203px;
+}
+.column{
+    font-size: 12px;
+}
+.para{
+    color: #fff;
+    position: absolute;
+    top: 880px;
+    left: 200px;
+}

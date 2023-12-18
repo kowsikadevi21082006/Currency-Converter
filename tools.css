@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+body{
+    background: #001e4d;
+    font-family: 'poppins';
+    height: 1000px;
+}
+.tool1 img{
+      position: absolute;
+      left: 600px;
+      top: 10px;
+      width: 350px;
+      height: 340px;
+}
+.tool1 h4{
+    position: absolute;
+    left: 180px;
+    top: 40px;
+    color: azure;
+}
+.tool1 h1{
+    position: absolute;
+    left: 200px;
+    top: 90px;
+    color: azure;
+}
+.tool1 p{
+    position: absolute;
+    left: 180px;
+    top: 140px;
+    color: azure;
+}
+.tool2 img{
+    position: absolute;
+    left: 50px;
+    top: 400px;
+    width: 350px;
+    height: 350px;
+}
+.tool2 h2{
+    position: absolute;
+    left: 510px;
+    top: 400px;
+    color: white;
+}
+.tool2 p{
+    position: absolute;
+    left: 510px;
+    top: 490px;
+    color: white;
+}
+.pay p{
+    position: absolute;
+    left: 100px;
+    top: 770px;
+    color: #fff;
+}
+.pay .img1{
+    position: absolute;
+    left: 367px;
+    top: 835px;
+    width: 70px;
+    height: 40px;
+}
+.pay .img2{
+    position: absolute;
+    left: 487px;
+    top: 835px;
+    width: 70px;
+    height: 40px;
+}
+.pay .img3{
+    position: absolute;
+    left: 607px;
+    top: 835px;
+    width: 70px;
+    height: 40px;
+}
+.pay .img4{
+    position: absolute;
+    left: 727px;
+    top: 835px;
+    width: 70px;
+    height: 40px;
+}
+.contain{
+    background: #fff;
+    position: relative;
+    top: 910px;
+    height: 200px;
+}
+.down{
+    text-align: center;
+}
+.down h2{
+    font-size: 14px;
+    position: relative;
+    top: 15px;
+}
+.down h1{
+    font-size: 22px;
+    position: relative;
+    top: 20px;
+}
+.down img{
+    width: 140px;
+    position: relative;
+    top: 40px;
+}
+.footer{
+    background: #001e4d;
+    height: 1000px;
+}
+.logo1 img{
+    position: relative;
+    top: 920px;
+    left: 40px;
+    width: 165px;
+    height: 80px;
+}
+.logo1 h1{
+    position: relative;
+    font-size: 18px;
+    top: 920px;
+    left: 160px;
+    color: #fff;
+}
+.logo1 h2{
+    position: relative;
+    font-size: 18px;
+    top: 879px;
+    left: 330px;
+    color: #fff;
+}
+.logo1 h3{
+    position: relative;
+    font-size: 18px;
+    top: 836px;
+    left: 510px;
+    color: #fff;
+}
+.logo1 h4{
+    position: relative;
+    font-size: 18px;
+    top: 784px;
+    left: 680px;
+    color: #fff;
+}
+.logo1 h5{
+    position: relative;
+    font-size: 18px;
+    top: 709px;
+    left: 790px;
+    color: #fff;
+}
+.icons #icon1{
+    position: absolute;
+    top: 255%;
+    left: 220px;
+    width: 40px;
+    height: 40px;
+}
+.icons #icon2{
+    position: absolute;
+    top: 255%;
+    left: 320px;
+    width: 40px;
+    height: 40px;
+}
+.icons #icon3{
+    position: absolute;
+    top: 255%;
+    left: 414px;
+    width: 40px;
+    height: 40px;
+}
+.icons #icon4{
+    position: absolute;
+    top: 255%;
+    left: 510px;
+    width: 40px;
+    height: 40px;
+}

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+body{
+    background: #fff;
+    font-family: 'poppins';
+}
+.header h3{
+     font-size: 12px;
+     color: black;
+     position: absolute;
+     text-align: center;
+     left: 490px;
+     top: 50px;
+     letter-spacing: 1;
+}
+.header h1{
+    font-weight: bold;
+    position: absolute;
+    top: 75px;
+    left: 320px;
+}
+.header p{
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+.pic{
+    background: #ccc;
+    position: absolute;
+    top: 400px;
+}
